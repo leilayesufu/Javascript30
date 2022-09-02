@@ -9,4 +9,4 @@ Learnt about the transitionend event, audio.currentTime and data-keys while buil
 
 #Day 2: Sep 2nd 2022
 Learnt about CSS trasition and transform properties
-The setInteval function in javascript and all about date object
+The setInteval function in javascript and all about date object building a js+css clock
